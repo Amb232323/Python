@@ -193,6 +193,7 @@ x = int(input("quelle hauteur ?"))
 
 pyramide(x)
 
+print('\n')
 
 
 
